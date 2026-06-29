@@ -1,4 +1,5 @@
 📊 Vrinda Store Annual Sales Dashboard (Excel)
+
 📌 Project Overview
 
 This project presents an interactive Sales Dashboard built in Microsoft Excel to analyze the annual sales performance of Vrinda Store for 2022. The dashboard provides business insights through dynamic charts, Pivot Tables, and slicers.
